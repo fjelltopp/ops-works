@@ -1,3 +1,3 @@
 template '/var/lib/tomcat7/conf/context.xml' do
-  source 'contect.xml.erb'
+  source 'context.xml.erb'
 end
