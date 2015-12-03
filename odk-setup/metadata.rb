@@ -1,0 +1,7 @@
+name 'odk-setup'
+maintainer 'Gunnar Ro'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures odk-setup'
+long_description 'Installs/Configures odk-setup'
+version '0.1.0'
